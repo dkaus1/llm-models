@@ -1,5 +1,7 @@
 # Steps to run local server
 - python version 3 or later
+- Install https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/tree/main
+- Please .gguf file in project directory
 - pip install -r requirements.txt
 - python3 main.py
 
